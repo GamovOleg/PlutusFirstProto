@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/PlutusFirstProto.iml" filepath="$PROJECT_DIR$/.idea/PlutusFirstProto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/accountService/accountService.iml" filepath="$PROJECT_DIR$/accountService/accountService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/operationService/operationService.iml" filepath="$PROJECT_DIR$/operationService/operationService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/statisticsService/statisticsService.iml" filepath="$PROJECT_DIR$/statisticsService/statisticsService.iml" />
+    </modules>
+  </component>
+</project>

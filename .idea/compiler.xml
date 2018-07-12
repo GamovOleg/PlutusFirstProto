@@ -7,14 +7,17 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="accountService" />
+        <module name="configServer" />
         <module name="operationService" />
         <module name="statisticsService" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="accountService" target="1.5" />
-      <module name="operationService" target="1.5" />
-      <module name="statisticsService" target="1.5" />
+      <module name="accountService" target="1.8" />
+      <module name="configServer" target="1.8" />
+      <module name="operationService" target="1.8" />
+      <module name="PlutusFirstProto" target="1.5" />
+      <module name="statisticsService" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
